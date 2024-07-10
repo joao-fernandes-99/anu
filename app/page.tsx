@@ -1,5 +1,4 @@
 'use client';
-import Image from "next/image";
 
 const moveButton = (e: any) => {
   const marginX = Math.floor(Math.random() * 600);
